@@ -1,0 +1,12 @@
+/Users/yunhaopan/Projects/Xamarin/Xamarin/bin/iPhoneSimulator/Release/Xamarin.exe
+/Users/yunhaopan/Projects/Xamarin/Xamarin/bin/iPhoneSimulator/Release/Xamarin.pdb
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/optimized/myImage.png
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/optimized/
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/Xamarin.csproj.CoreCompileInputs.cache
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/Xamarin.exe
+/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/Xamarin.pdb

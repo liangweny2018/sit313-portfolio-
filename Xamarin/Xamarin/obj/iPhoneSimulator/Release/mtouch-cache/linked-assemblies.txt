@@ -1,0 +1,8 @@
+RemoveDynamicRegistrar:false
+/Users/yunhaopan/Projects/Xamarin/Xamarin/bin/iPhoneSimulator/Release/Xamarin.app:/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/mtouch-cache/Link/Xamarin.exe
+/Users/yunhaopan/Projects/Xamarin/Xamarin/bin/iPhoneSimulator/Release/Xamarin.app:/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/mtouch-cache/Link/mscorlib.dll
+/Users/yunhaopan/Projects/Xamarin/Xamarin/bin/iPhoneSimulator/Release/Xamarin.app:/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/yunhaopan/Projects/Xamarin/Xamarin/bin/iPhoneSimulator/Release/Xamarin.app:/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.dll
+/Users/yunhaopan/Projects/Xamarin/Xamarin/bin/iPhoneSimulator/Release/Xamarin.app:/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/mtouch-cache/Link/Mono.Security.dll
+/Users/yunhaopan/Projects/Xamarin/Xamarin/bin/iPhoneSimulator/Release/Xamarin.app:/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Xml.dll
+/Users/yunhaopan/Projects/Xamarin/Xamarin/bin/iPhoneSimulator/Release/Xamarin.app:/Users/yunhaopan/Projects/Xamarin/Xamarin/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Core.dll
